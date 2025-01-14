@@ -1,0 +1,1 @@
+Data Source=LAPTOP-6T1SPPJF\SQLEXPRESS;Initial Catalog=BMIS;Integrated Security=True;Trust Server Certificate=True

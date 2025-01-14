@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBlotter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDocuments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHouseHold.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOfficials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPaymentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPrintBarangayClearance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrintBusiness.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPurok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmResident.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmResidentsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmViewHousehold.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
